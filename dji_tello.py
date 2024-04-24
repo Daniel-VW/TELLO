@@ -31,7 +31,7 @@ def example(drohne):
     drohne.rotate_clockwise(360)
 
     #Drohne gegen den Uhrzeigersinn (um 360 Grad) drehen. Du kannst einen Winkel von 1-360 Grad angeben.
-    drohne.rotate_counter_clockwise(180)
+    drohne.rotate_counter_clockwise(360)
 
     #Drohne nach hinten flippen lassen
     drohne.flip_back()
